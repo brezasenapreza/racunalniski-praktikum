@@ -11,7 +11,7 @@
 * *Prilepi* vsebino odložišča: Ctrl+V
 * *Izbere vse*  : Ctrl + A
 * *vrnitev nazaj* : Ctrl + Z
-* *Menjati zavihek : Ctrl + Tab 
+* *Menjati zavihek* : Ctrl + Tab 
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
