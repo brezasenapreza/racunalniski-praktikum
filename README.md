@@ -9,6 +9,9 @@
 * *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
 * *Izreži* označeno v odložišče: Ctrl+X
 * *Prilepi* vsebino odložišča: Ctrl+V
+* *Izbere vse*  : Ctrl + A
+* *vrnitev nazaj* : Ctrl + Z
+* *Menjati zavihek : Ctrl + Tab 
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
