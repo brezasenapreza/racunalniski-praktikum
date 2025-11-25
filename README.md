@@ -6,17 +6,17 @@
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
-* *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
-* *Izreži* označeno v odložišče: Ctrl+X
-* *Prilepi* vsebino odložišča: Ctrl+V
-* *Izbere vse*  : Ctrl + A
-* *vrnitev nazaj* : Ctrl + Z
-* *Menjati zavihek* : Ctrl + Tab 
+ Kopiraj označeno v odložišče: Ctrl+C (Copy)
+ Izreži označeno v odložišče: Ctrl+X
+ Prilepi vsebino odložišča: Ctrl+V
+ Menjati zavihek Ctrl+tab
+ izberi cel tekst Ctrl+A
+ Vrnitev nazaj Ctrl+Z
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda
 
-Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
+Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 
 <!-- začetek bloka z izvorno kodo -->
 ```<kbd>Ctrl</kbd>```
